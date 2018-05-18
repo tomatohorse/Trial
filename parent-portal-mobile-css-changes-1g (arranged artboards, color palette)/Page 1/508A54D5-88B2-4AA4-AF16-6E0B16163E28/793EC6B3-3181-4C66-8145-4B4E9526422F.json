@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "793EC6B3-3181-4C66-8145-4B4E9526422F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "66E2834A-2BBE-40B9-824E-BE01DA202DFB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "03386AA4-0818-468D-9FCB-32567293B8E1",
+    "height": 42,
+    "width": 375,
+    "x": 26,
+    "y": 495
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "grade accordions copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F9EE8372-19AA-427C-8BFF-BA73E1566E13",
+      "overrideName": "C20CD1B7-1590-407B-B080-3CB472D733A5_stringValue",
+      "value": "D.Rdng/S.Ski"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "507A8C7D-3AFF-46AA-B077-A399FADFA209",
+      "overrideName": "0931C367-14C5-4913-83F6-7C90D81006E4_stringValue",
+      "value": "54"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9FBE386F-8EE9-4D86-9DB1-0E28AF9A8E4C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "22232748-51BB-4158-BB78-A1433542B8DD",
+  "verticalSpacing": 0
+}

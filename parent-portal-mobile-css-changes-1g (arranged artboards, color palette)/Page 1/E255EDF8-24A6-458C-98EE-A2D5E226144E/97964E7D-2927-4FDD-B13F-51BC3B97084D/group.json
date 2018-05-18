@@ -1,0 +1,113 @@
+{
+  "_class": "group",
+  "do_objectID": "97964E7D-2927-4FDD-B13F-51BC3B97084D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 836,
+    "width": 440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "FD8D85A5-1C26-4BDF-AD3B-B6952538D2D0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "79F9C05A-35F3-4A85-8BE3-33E4D9D8BD56"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "060671BD-7A36-4937-8285-E816986768ED"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9D43B8FA-801A-4D5E-B75C-FA3D75A08AF5"
+    },
+    {
+      "class": "text",
+      "id": "3485C714-A285-487F-AAE6-BD94B2108228"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5F93F365-011B-4E6F-BDC2-CFD4F33C0F5E"
+    },
+    {
+      "class": "text",
+      "id": "C09C73CA-DC3A-46F8-B90F-96B0C1055010"
+    },
+    {
+      "class": "text",
+      "id": "D1D8DDC4-634B-44D7-9964-7AE17A4CA5C0"
+    },
+    {
+      "class": "group",
+      "id": "386137F8-1B9C-456B-B3BA-AD4B8CD7A6D9"
+    },
+    {
+      "class": "group",
+      "id": "FB105ABF-41C5-44F8-8DFA-4B554C597186"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DCC79FA6-6E03-4697-87C0-A5C14407781D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DAAAAAA5-17AF-452F-9854-FA13B335C839"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0B4D91AF-9968-4017-AECF-088E012DA36B"
+    },
+    {
+      "class": "text",
+      "id": "8F8C0C32-9C5A-4981-8B15-3236047F914A"
+    },
+    {
+      "class": "text",
+      "id": "B33C62B6-3B10-4D27-9096-D4EAA424EE75"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F6BC0A44-BB70-4020-80D4-6F083B7379B6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F8108A9E-F7D2-4246-B4A8-15A3AAB94645"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EF02789C-E5E0-45AF-8FCD-EECEBB2294CF"
+    }
+  ],
+  "name": "Mockup Group",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

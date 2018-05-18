@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "681F133C-2535-4D71-9B56-C90903F16B75",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 355,
+    "width": 289,
+    "x": 212,
+    "y": 998
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E737C4E6-3BA6-4CC4-AB0E-064A3FE52F25"
+    },
+    {
+      "class": "text",
+      "id": "A44625AF-57BB-48D0-951C-C3ECE8BD59A2"
+    },
+    {
+      "class": "text",
+      "id": "DC521F17-BAF6-4BD8-805E-1CCE9BFBEC4B"
+    }
+  ],
+  "name": "Nav Bar Gradient Group",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

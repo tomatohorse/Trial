@@ -1,0 +1,105 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.6588235294117647,
+            "green": 0.3568627450980392,
+            "red": 0.09411764705882356
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Bold",
+              "size": 20
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 11,
+        "location": 0
+      }
+    ],
+    "string": "Keyboarding"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "68708D01-9E5C-45FC-B538-7BA07A0E735A",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B9AD282E-D2F9-4DA9-9B3E-574AB9CB9DEF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C59C2084-8EF0-478B-84CE-F75B097138B0",
+    "height": 24,
+    "width": 113,
+    "x": 11,
+    "y": 8
+  },
+  "glyphBounds": "{{1, 4}, {111, 20}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Keyboarding",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E6DB619F-26DB-4970-9897-B4212E6EA9D5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "9322BF52-37E1-4944-B4A5-60DA4231AAB4",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "C0C720C5-3936-4ED4-B4B7-EA603C86024D",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6588235294117647,
+          "green": 0.3568627450980392,
+          "red": 0.09411764705882356
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Roboto-Bold",
+            "size": 20
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 0
+}

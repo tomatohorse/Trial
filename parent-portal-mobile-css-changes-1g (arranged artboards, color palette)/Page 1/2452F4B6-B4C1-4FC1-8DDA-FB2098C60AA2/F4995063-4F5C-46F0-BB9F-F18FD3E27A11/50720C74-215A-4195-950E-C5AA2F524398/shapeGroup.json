@@ -1,0 +1,69 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "50720C74-215A-4195-950E-C5AA2F524398",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B403F3BA-3246-4702-BDF8-B76D1E0CC21C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9BD0A4F6-CAE3-42B7-BA23-852DD83C22CA",
+    "height": 60,
+    "width": 60,
+    "x": 93,
+    "y": 71
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "08E93EBA-BEDB-4A44-BFBF-89878201F0E0"
+    }
+  ],
+  "name": "Tomorrow Box",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "693071C0-9364-44E1-A89E-7F204F66B5DE",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2705882352941176,
+          "green": 0.4588235294117647,
+          "red": 0.3725490196078431
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

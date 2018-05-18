@@ -1,0 +1,49 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "763F003B-5A7A-4AC0-92B2-F8D444CF8A60",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8647591A-0A51-4CC9-A40A-B59FA624CF7D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "9C4DB8C7-7700-4FD8-9B12-FDEB7A8DD0CE",
+    "height": 877,
+    "width": 431,
+    "x": 0,
+    "y": 0
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/ef0afbf5b5aaba38f61425a07f548839033a713c.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "iPhone8_375x667",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "38FE9809-94D7-48F5-BDA3-6CB71A90CB38",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

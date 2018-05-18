@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "65A828EA-7D70-4CCD-8396-BBBADDCE1FB6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1C52A624-8FA3-43C4-BF41-06C2AE98CC3D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A563AF28-DA92-4492-920B-9E211566CFF1",
+    "height": 22,
+    "width": 69,
+    "x": 16,
+    "y": 28
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "D0661BCC-6A8D-42CC-AB7E-EEF52882CEA8"
+    },
+    {
+      "class": "group",
+      "id": "5A376E41-1874-4901-8A21-A61FBF73E969"
+    }
+  ],
+  "name": "Branding",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5193BA8A-88B8-4AE2-98F4-FB86F9FC8EE1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

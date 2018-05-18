@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "A7D2285F-5A17-48A1-A52C-80BDA141138E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "45B61E42-13A1-49FB-A667-A9DE7E5D97EA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1D57B0C4-769C-4C7A-AEED-8BDBF9A4DD52",
+    "height": 100,
+    "width": 68,
+    "x": 154,
+    "y": 518
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "951BEE5A-C9BB-4941-A1DA-E640988C19C1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D1D84980-F823-4308-AFF8-A89CDD5DA212"
+    }
+  ],
+  "name": "Follett_Symbol_Color",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4B056299-D9A5-49C6-B4D9-44B5FC2AFB18",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B6C53D12-4337-4069-8152-8687B7E9C8B9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F7DD4A7C-FCEA-4D0F-A745-80880380AE6E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2D4EC300-20EF-441A-91B2-E036A2936A50",
+    "height": 42,
+    "width": 375,
+    "x": 26,
+    "y": 454
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "grade accordions",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4EF57E60-331E-4895-B401-E9D8ED1435E0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "22232748-51BB-4158-BB78-A1433542B8DD",
+  "verticalSpacing": 0
+}

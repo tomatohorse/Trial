@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A62F7804-6969-452F-A65E-31D845839CD4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DAD85AEC-31F6-4DF0-BE25-44DEE3C3D54D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CDB9FC6A-76C4-4E45-A3CE-76E37A733574",
+    "height": 130,
+    "width": 54,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Single Calendar Panel",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F117D55D-B110-4B2E-90A5-9E3A5EA35CA9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0DDA2A3E-F87D-4809-AE8E-D5630099075C",
+  "verticalSpacing": 0
+}

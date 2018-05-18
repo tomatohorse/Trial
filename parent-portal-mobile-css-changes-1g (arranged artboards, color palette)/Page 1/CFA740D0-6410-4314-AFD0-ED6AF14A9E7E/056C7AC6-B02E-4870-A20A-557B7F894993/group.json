@@ -1,0 +1,95 @@
+{
+  "_class": "group",
+  "do_objectID": "056C7AC6-B02E-4870-A20A-557B7F894993",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 276,
+    "width": 200,
+    "x": 481,
+    "y": 337
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "01680C38-CDCB-4CB7-8BF9-A06CEA4504AD"
+    },
+    {
+      "class": "text",
+      "id": "E0322DF3-FA1B-445A-98AF-2E946E1B73FD"
+    },
+    {
+      "class": "text",
+      "id": "31FB10AF-8785-4FA1-BAAC-DA97363C08E3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D1696DC0-64E0-497C-A9AD-39C6F90ACD24"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DE18D3A8-4972-48D4-885C-7C78C5287E42"
+    }
+  ],
+  "name": "Pastel gray",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 7,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2394701086956522,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.ment.sketch.prism": {
+      "cell-layer": {
+        "alpha": 1,
+        "blue": 0.6970000000000001,
+        "green": 0.85,
+        "hex": "C7D9B2",
+        "name": "Pastel gray",
+        "red": 0.7786
+      }
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "94522CED-98F0-4812-8233-7827AB28AA5C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ACB5557B-796B-400D-8059-A93283D162B1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "609F38C9-829A-412C-8838-9DF96D1DF6FA",
+    "height": 36,
+    "width": 36,
+    "x": 75,
+    "y": 95
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "D5A11DCE-7DC5-41C4-B5CC-B6933189490F"
+    }
+  ],
+  "name": "Touch Point",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1066960170865059,
+          "green": 0.007513228338211775,
+          "red": 0.816203773021698
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "6748E8A5-FA75-4C3C-98C5-057F167EF77E",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.4933480525362319,
+          "blue": 0.1066960170865062,
+          "green": 0.00751322833821177,
+          "red": 0.816203773021698
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

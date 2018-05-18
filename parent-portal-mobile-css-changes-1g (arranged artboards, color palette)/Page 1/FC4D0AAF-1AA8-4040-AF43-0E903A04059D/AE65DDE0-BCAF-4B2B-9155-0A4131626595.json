@@ -1,0 +1,103 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.6588235294117647,
+            "green": 0.3568627450980392,
+            "red": 0.09411764705882356
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Helvetica-Bold",
+              "size": 21
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          }
+        },
+        "length": 1,
+        "location": 0
+      }
+    ],
+    "string": "3"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "AE65DDE0-BCAF-4B2B-9155-0A4131626595",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "481AB643-10B0-42B6-97A4-2D055C9073F2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2588A9C0-4F39-4728-98C4-7A3A8B75B095",
+    "height": 25,
+    "width": 12,
+    "x": 311,
+    "y": 495
+  },
+  "glyphBounds": "{{0, 5}, {11, 16}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "3",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0954C485-AC6B-46E2-BCD0-FA16DA102FBA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "80B7BC56-1355-4F2E-8E3F-5AD05BACDF56",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "76EC1F61-59A1-47AD-9E1E-F8D766A70797",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6588235294117647,
+          "green": 0.3568627450980392,
+          "red": 0.09411764705882356
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Helvetica-Bold",
+            "size": 21
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 0
+}

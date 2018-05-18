@@ -1,0 +1,115 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "856E75CE-1300-4307-80D4-3CEE4F286102",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "DD8BC194-3C71-4D96-8692-23894AA7F950",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "334BB860-98C8-430E-92A1-7C204C24FE08",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CCEA9D3B-F07C-41B9-A2F4-D2129BD6B747",
+    "height": 1485,
+    "width": 2244,
+    "x": 66,
+    "y": 1986
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "98EE36E4-3C42-4A13-9A89-09E44CF1B4C4",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "22FB1068-4597-4E8A-A935-CF7422D15720"
+    },
+    {
+      "class": "text",
+      "id": "B678A24B-F4AE-4537-A241-F489D62D994F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3BCE1387-D73C-4CE4-9A76-CC0786681103"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "29CEE00B-18AC-4FC8-A2E1-5D916317231C"
+    },
+    {
+      "class": "text",
+      "id": "61659DAD-A1AD-4C85-803F-78C4B1BBE4DC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DB838B93-8719-4E93-9FF7-35A5BB7AE639"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1053D42C-F9E9-4227-8EF4-8E235719380C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "678ADE99-1BDB-41B4-8A9A-846309994C42"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7AF1BE2B-E8AC-4347-8DA0-A547EEC0C8E9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6ECA8BEC-F487-4B97-AB4C-A6F897665AC1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BF21EA28-A6BB-41D8-A7AB-DAE67574F9BE"
+    }
+  ],
+  "name": "Family Container Artboard",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "88361AD8-3C50-46E1-B14B-BDD2F4D910D1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DFED0708-61A3-469C-A72E-989FD494708B",
+    "guides": [
+    ]
+  }
+}

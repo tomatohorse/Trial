@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "6EBAC768-1F58-43EF-9CE0-68D48C3DD8CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "45FA1E78-3362-451E-8E1D-6AB5401F1EA8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E6770899-14FD-44B7-9840-08C9271860D2",
+    "height": 50,
+    "width": 160,
+    "x": 48,
+    "y": 275
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "950D4D97-2EAD-4EF2-9A57-EB8FDF2AACD0"
+    },
+    {
+      "class": "text",
+      "id": "70205967-A730-4EEE-9274-869D1DF9FBF3"
+    }
+  ],
+  "name": "Attendance Btn",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "741706D8-2427-44B6-9018-A7A624F496A7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

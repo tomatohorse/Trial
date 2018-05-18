@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "B51BF6ED-4923-4305-AEB6-2C83B3A67940",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8C450DC5-9481-4DF0-900C-724528671C4D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "876532E5-85B8-429A-92E7-A0331BDFD395",
+    "height": 20,
+    "width": 46,
+    "x": 238,
+    "y": 50
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "00436F25-93C7-40F0-B1B1-1AE8DFBEED01"
+    }
+  ],
+  "name": "Saturday",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "441720B2-0FEC-4383-8F8B-94FB9AA88A37",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

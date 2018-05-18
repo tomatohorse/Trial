@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "ED3E1B01-80DD-4039-AE0E-F8AEAFF97799",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B1485370-EE13-4EF0-9A5C-A0AE446F2636",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B5A5EBE2-34A7-405B-89D9-8D42A74C6CD2",
+    "height": 37,
+    "width": 33,
+    "x": 298,
+    "y": 19
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "075250C0-C382-4370-B86E-A8994B020E89"
+    }
+  ],
+  "name": "calendar-clock",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BA78E3C2-0A04-4923-886B-4F8755789150",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "_class": "group",
+  "do_objectID": "4676726B-7611-422D-A6BF-8C2742D55099",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7F3E60C3-06BA-4356-A19C-9FB88ADAC0E2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "528D3A3D-B8AF-4960-8E50-6F6F8A9C79F5",
+    "height": 192,
+    "width": 332,
+    "x": 47,
+    "y": 353
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "1DC1E783-D343-457E-8886-AC5598D8E54B"
+    },
+    {
+      "class": "text",
+      "id": "6E87A740-1372-4191-A591-0811E50C53FE"
+    },
+    {
+      "class": "group",
+      "id": "0F3C4F32-E06E-4B7F-9ABB-83F4367B3A22"
+    },
+    {
+      "class": "group",
+      "id": "8B3D3F6E-D72A-4BC5-969A-1008D9FB27B2"
+    },
+    {
+      "class": "group",
+      "id": "B5CD523E-1A79-4E0C-9646-0303F6C313B6"
+    },
+    {
+      "class": "group",
+      "id": "5A8F32AB-11AB-4439-B9AD-061EEEF13B8F"
+    },
+    {
+      "class": "group",
+      "id": "CD8D50F0-4EC9-4756-A5EF-20EDD96E9C0C"
+    },
+    {
+      "class": "group",
+      "id": "39BC7565-64DA-44CF-853B-8D7023E2748A"
+    },
+    {
+      "class": "group",
+      "id": "8A0D681E-8760-4970-A2E2-1745B3580714"
+    },
+    {
+      "class": "text",
+      "id": "D1DAAE23-A00D-41C6-9CEB-98AA0611239C"
+    },
+    {
+      "class": "text",
+      "id": "AB325F2F-FF6D-4574-AAFB-BBC348C9B01C"
+    }
+  ],
+  "name": "Calendar DD",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "09045FDB-807F-4A86-8822-69F587CC30B8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "DLMidnight": {
+      "layerColor": "orange"
+    }
+  }
+}

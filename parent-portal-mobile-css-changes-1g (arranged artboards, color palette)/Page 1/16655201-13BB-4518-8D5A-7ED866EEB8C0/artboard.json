@@ -1,0 +1,143 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "4590B905-3113-4281-8150-F29F07E209A0",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "16655201-13BB-4518-8D5A-7ED866EEB8C0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6C6F3123-71B7-42A4-A0C6-D075B9B32117",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E0B8F512-B4E1-49D1-86F9-BC6077C814D0",
+    "height": 877,
+    "width": 431,
+    "x": 1191,
+    "y": -7311
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F94E4992-9364-432D-AEF5-EF1E9868711A",
+    "guides": [
+      28,
+      403
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "2F3B22B6-9BF3-44BF-BA14-4282FD45D644"
+    },
+    {
+      "class": "group",
+      "id": "F2D6A24B-4429-4F17-8E4E-9278D1F092A2"
+    },
+    {
+      "class": "group",
+      "id": "7DADE8B0-4C13-4582-A47F-CF8973FC09F4"
+    },
+    {
+      "class": "group",
+      "id": "4676726B-7611-422D-A6BF-8C2742D55099"
+    },
+    {
+      "class": "group",
+      "id": "72E9CDDB-55F5-483C-A038-AB02AA8B0D00"
+    },
+    {
+      "class": "group",
+      "id": "85C5B081-DC26-4795-A8B6-B67BABDED88D"
+    },
+    {
+      "class": "group",
+      "id": "E46E856A-CB37-44C6-A621-92398200D116"
+    },
+    {
+      "class": "group",
+      "id": "533CE23C-42E4-4192-A66F-AFFB7F13FCE0"
+    },
+    {
+      "class": "group",
+      "id": "99EFAF94-155E-45E3-A8F3-2161850C48C4"
+    },
+    {
+      "class": "group",
+      "id": "2E89B708-A3F5-4F08-A83D-ED9243F0F68D"
+    },
+    {
+      "class": "group",
+      "id": "87191DFD-2931-45A4-9A27-C89A955FE34D"
+    },
+    {
+      "class": "group",
+      "id": "16985B60-79E8-4560-B23E-7F0AE063A5FB"
+    },
+    {
+      "class": "group",
+      "id": "A8F31386-DBCF-4791-9B38-A81E291FC773"
+    },
+    {
+      "class": "group",
+      "id": "35E7D16D-AD60-4EBE-A140-3F6BCF9DBC5B"
+    },
+    {
+      "class": "group",
+      "id": "E3365A68-372D-4FC3-AAD2-6D07141E7A9A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C990CBC2-E11B-4814-B59E-9F6141EBBD4A"
+    },
+    {
+      "class": "text",
+      "id": "2D4D6D17-BD15-4AD1-B809-62B8603352D3"
+    }
+  ],
+  "name": "Home - Grades",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7ECE90AF-D71E-4099-A58A-70260550DBB9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BB679A76-3BD5-42C2-A2EB-22AC2FB6988D",
+    "guides": [
+      105,
+      772
+    ]
+  }
+}

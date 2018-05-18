@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "FDB4BBCA-D307-4120-B6A1-E9C066E085B8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FF437145-CE47-4B3A-B555-A31C8B74C2DD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DBD9B36B-9A79-4E09-8D00-0E8063D21F96",
+    "height": 30,
+    "width": 30,
+    "x": 87,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B00663F8-A469-42E9-B7D7-C8CF16F90A97"
+    },
+    {
+      "class": "text",
+      "id": "B49D8924-451A-466D-A078-EE64142B19AB"
+    }
+  ],
+  "name": "Alert Icon Group",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "01FBC94B-959C-465C-9FD9-54A1AB30EFBD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

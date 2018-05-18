@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "4ABFAC5B-3999-4E69-977D-87FCDD07AAC5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6D0BFF5D-31C8-4C9D-A8E1-23AE89F6C761",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5EF3C239-39B8-417B-921A-EEF41C04F7DB",
+    "height": 123,
+    "width": 132,
+    "x": 185,
+    "y": 5
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "475AA197-FBAA-422B-9831-3EB6E9B54706"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E02C74F7-D67C-45B6-9983-285348D0EEF1"
+    },
+    {
+      "class": "text",
+      "id": "97A357C2-BCAC-448E-9E0A-09203A751678"
+    },
+    {
+      "class": "text",
+      "id": "1D5B1F3D-D295-43AD-9325-6A9A6314E41F"
+    }
+  ],
+  "name": "Year Popup",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EA9ADBA6-D892-4300-9584-619198F77E08",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "DLMidnight": {
+      "layerColor": "red"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "_class": "group",
+  "do_objectID": "693354C0-0AA9-416D-B47F-1940AB50DC9E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "23F52FEF-A2D5-4DE4-BBAB-8AFE421F83FE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2877F7B4-600F-4CBA-A967-600C838D12EE",
+    "height": 194,
+    "width": 340,
+    "x": 44,
+    "y": 351
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "CF10A5B9-5C40-4C8B-A531-50C085132A71"
+    },
+    {
+      "class": "text",
+      "id": "0E42DCD9-ACC5-459D-B218-8A0FC3855A99"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "22C63EF8-6F1C-4676-8226-D002A9BF209C"
+    },
+    {
+      "class": "text",
+      "id": "762D0310-F589-42FC-B160-2FCF53DE2C15"
+    },
+    {
+      "class": "group",
+      "id": "91E768D4-FAA8-4443-B665-4C4C44602C55"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F84E8241-18A8-4E42-BF4B-51B55FA7E988"
+    },
+    {
+      "class": "text",
+      "id": "DC9FF5F5-3A59-460B-AB38-298CE82E17D5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FF60D831-4B16-4233-8995-0E9E9A943169"
+    },
+    {
+      "class": "text",
+      "id": "1D3F4BEF-0284-4DE5-AF30-C9CEEA4C08FC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FD376283-C69B-4FC0-97C6-7A2325AA53E4"
+    },
+    {
+      "class": "text",
+      "id": "0E4F9D19-5057-4E9A-A391-AE30B031F9B1"
+    },
+    {
+      "class": "text",
+      "id": "432AE654-66DD-4F85-86DB-56D0731537D6"
+    }
+  ],
+  "name": "Charts - Assignments",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DD8B3E6C-346B-40C6-B702-20A0933254F2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "DLMidnight": {
+      "layerColor": "orange"
+    }
+  }
+}

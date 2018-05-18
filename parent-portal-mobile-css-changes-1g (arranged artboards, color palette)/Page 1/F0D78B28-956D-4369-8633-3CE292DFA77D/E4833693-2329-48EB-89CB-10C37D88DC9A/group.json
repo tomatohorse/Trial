@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "E4833693-2329-48EB-89CB-10C37D88DC9A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DB927749-4442-4D66-B390-FB79F1F8C33B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "24D57117-825A-4373-A320-FE80319E74DF",
+    "height": 50,
+    "width": 375,
+    "x": 28,
+    "y": 722
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5D95448F-8438-42AB-817D-6125DE3EDB91"
+    },
+    {
+      "class": "text",
+      "id": "9AC0F1A8-F91E-4EF3-A121-E013E5BA3E3E"
+    },
+    {
+      "class": "group",
+      "id": "F82FA8EF-5576-4304-8552-74CE24A8AC11"
+    }
+  ],
+  "name": "Overdue Group",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "503D23C1-A2E5-4941-AC5C-DB4B328EE5FB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

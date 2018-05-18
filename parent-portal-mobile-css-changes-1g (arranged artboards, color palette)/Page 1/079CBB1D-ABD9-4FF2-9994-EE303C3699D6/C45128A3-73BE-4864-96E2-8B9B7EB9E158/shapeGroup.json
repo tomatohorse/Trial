@@ -1,0 +1,86 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "C45128A3-73BE-4864-96E2-8B9B7EB9E158",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7C59B51A-6D2B-4448-AEF0-FBEC0D4142B3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FDF3BA07-6519-4390-A3DE-D2422958DEA4",
+    "height": 60,
+    "width": 375,
+    "x": 30,
+    "y": 479
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2752A5D9-7D3F-4A39-BD92-7A26D69217B3"
+    }
+  ],
+  "name": "Rectangle Copy 5",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "E0EFFB7E-D978-41B1-9D69-B92013455127",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9058823529411765,
+          "green": 0.9333333333333333,
+          "red": 0.9215686274509803
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "0E1430B6-06A7-433C-81CD-B41037C157F5",
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

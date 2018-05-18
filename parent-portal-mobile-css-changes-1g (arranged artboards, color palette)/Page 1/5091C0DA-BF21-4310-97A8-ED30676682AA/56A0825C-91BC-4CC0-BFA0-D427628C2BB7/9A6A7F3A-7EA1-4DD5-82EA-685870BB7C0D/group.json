@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "9A6A7F3A-7EA1-4DD5-82EA-685870BB7C0D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "44FF230E-62F0-40DA-B549-CBA2ED70D406",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5B5E1F5C-BC00-4C82-96A7-9787E0BD5D88",
+    "height": 21,
+    "width": 46,
+    "x": 50,
+    "y": 50
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C100B83E-2EC0-4267-8652-77F70E1449D3"
+    }
+  ],
+  "name": "Tuesday",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9962CC95-D372-4ACE-B280-9FEBFC0C921C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

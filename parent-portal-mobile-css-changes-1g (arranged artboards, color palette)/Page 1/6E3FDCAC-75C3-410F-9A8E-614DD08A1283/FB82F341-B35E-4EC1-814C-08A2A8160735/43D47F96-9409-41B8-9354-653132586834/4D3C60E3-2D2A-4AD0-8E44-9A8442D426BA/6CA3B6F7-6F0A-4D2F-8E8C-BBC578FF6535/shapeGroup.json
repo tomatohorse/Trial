@@ -1,0 +1,78 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "6CA3B6F7-6F0A-4D2F-8E8C-BBC578FF6535",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "121A7664-69E8-443C-80ED-C2D0A29DA27A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "AC9AB77A-C7B1-40AA-B577-6336617B98C5",
+    "height": 110,
+    "width": 110,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": true,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "4E27536C-C28C-4289-8C3D-B51A6B247E80"
+    }
+  ],
+  "name": "Oval1b Chart",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+        276.3200073242188,
+        9999
+      ],
+      "do_objectID": "C3256E7A-6825-4800-87EB-4854E8EB52D2",
+      "isEnabled": false,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.01991642080247402,
+          "green": 0.4596164226531982,
+          "red": 0.2557843029499054
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 1,
+        "thickness": 20
+      }
+    ],
+    "do_objectID": "F1D32F42-8FDC-4CB0-9EFB-CBBC0AD7C85F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

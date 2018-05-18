@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "EFF0F42E-BA27-4767-A861-232A6F937830",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BB949CE8-08C3-48A2-AC87-D06B01B97D7C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2960B8D7-CBF7-42A5-AB90-8314EA51B374",
+    "height": 130,
+    "width": 54,
+    "x": 320.9999999999997,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Single Calendar Panel Copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F3C29DCE-63F9-4F16-8A55-EB04DD4186D3",
+      "overrideName": "994135E3-6616-4254-84CC-15FC87A1215C/FFA002D0-FFE6-401B-843E-4442C86737A2_stringValue",
+      "value": "5"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "70D77609-6AD8-4F38-81AD-E5734F1749CE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0DDA2A3E-F87D-4809-AE8E-D5630099075C",
+  "verticalSpacing": 0
+}

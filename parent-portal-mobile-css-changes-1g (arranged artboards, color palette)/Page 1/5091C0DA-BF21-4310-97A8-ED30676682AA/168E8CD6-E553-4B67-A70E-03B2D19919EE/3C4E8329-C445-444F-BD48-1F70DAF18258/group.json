@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "3C4E8329-C445-444F-BD48-1F70DAF18258",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D8842341-F59A-436F-A866-210B2AEF2DA0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "55995DAF-7558-4D82-9B40-4433D1557AAE",
+    "height": 12,
+    "width": 8,
+    "x": 175,
+    "y": 10
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9105F07B-DF8C-47BE-985E-E1110DDB96E4"
+    }
+  ],
+  "name": "Chevron Down",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A601D048-6A77-4F36-970B-CCEEDD8DC3AC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

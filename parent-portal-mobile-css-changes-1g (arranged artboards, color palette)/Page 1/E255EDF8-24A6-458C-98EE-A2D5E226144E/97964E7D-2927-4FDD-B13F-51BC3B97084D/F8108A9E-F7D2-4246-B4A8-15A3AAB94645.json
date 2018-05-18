@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F8108A9E-F7D2-4246-B4A8-15A3AAB94645",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B2663EBC-0055-4E1F-8B23-24C801ADD835",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5BB07B54-CC73-49E2-BCAB-4083D70D321D",
+    "height": 50,
+    "width": 375,
+    "x": 29,
+    "y": 99
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "header flat copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B6B2BD6C-0D4D-4E37-BCE8-B4324413E318",
+      "overrideName": "3E2456FD-67E6-4D64-9A47-4ECEB77FEB2A_stringValue",
+      "value": "Conduct"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7B3B6872-6ED9-489E-8644-1EEC314A987F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "FC7B3554-3F2B-4D04-A2E5-396A8BE6CBFF",
+  "verticalSpacing": 0
+}

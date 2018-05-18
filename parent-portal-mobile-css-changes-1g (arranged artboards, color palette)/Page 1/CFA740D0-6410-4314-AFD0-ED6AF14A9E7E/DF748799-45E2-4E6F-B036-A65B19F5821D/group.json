@@ -1,0 +1,110 @@
+{
+  "_class": "group",
+  "do_objectID": "DF748799-45E2-4E6F-B036-A65B19F5821D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E7F71154-CD1A-4A14-9020-139727EE31AF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "54F60A86-5912-4B65-A1B5-3A3FA01BA95A",
+    "height": 363,
+    "width": 201,
+    "x": 122,
+    "y": 232
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FA7E5F9B-4E05-4AFB-A569-A7D7975A86F3"
+    },
+    {
+      "class": "text",
+      "id": "18B643F2-6A20-4D08-8F3C-B8D3BFBB3D47"
+    },
+    {
+      "class": "text",
+      "id": "61CD1CCB-9BAE-4487-A908-52DFDF6FD341"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "992C15BC-25BA-4A44-92B0-A5D98C434C6F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F26FA1FE-BFEB-4397-9C37-B9B93164AE5A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0531074A-2A1A-4644-B703-A88C9BDEA185"
+    },
+    {
+      "class": "text",
+      "id": "074E2E5A-AC18-4517-8D55-A399EE353219"
+    },
+    {
+      "class": "text",
+      "id": "344AAAD0-2BEA-4977-A776-92F3BC81B613"
+    }
+  ],
+  "name": "Gold Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "145AD395-6E2E-4509-875B-6EEBC378C1E0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 7,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2394701086956522,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.ment.sketch.prism": {
+      "cell-layer": {
+        "alpha": 1,
+        "blue": 0.279,
+        "green": 0.72385,
+        "hex": "EDB947",
+        "name": "Gold",
+        "red": 0.93
+      }
+    }
+  }
+}

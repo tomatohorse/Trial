@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "4BAA3D25-4AFE-4545-BD25-827C86E35F1F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6073E498-9A92-4618-8DBF-60FB4C417FCB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B92EC1D2-7303-43AB-9031-AEC04EBD1CD4",
+    "height": 30,
+    "width": 186,
+    "x": 50,
+    "y": 164
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FA43E1E4-B4AE-43FC-AF12-240D9CBB75A0"
+    },
+    {
+      "class": "group",
+      "id": "A374F321-E6BE-43B9-AAB6-081EC0AC81FF"
+    },
+    {
+      "class": "text",
+      "id": "E3EAA637-9CCA-4D66-B02E-6E4F3D09BFF9"
+    }
+  ],
+  "name": "Student",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EFD05E7D-91B5-432D-9E38-259A414D234D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

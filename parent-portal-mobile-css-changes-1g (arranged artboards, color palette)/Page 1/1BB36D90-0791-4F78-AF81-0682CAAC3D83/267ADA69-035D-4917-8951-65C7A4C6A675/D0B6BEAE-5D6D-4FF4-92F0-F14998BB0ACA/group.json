@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "D0B6BEAE-5D6D-4FF4-92F0-F14998BB0ACA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B67E9D56-EC65-4CD0-A07A-8815677014BD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "22D40E49-FE15-4E65-8F7F-61550CDE4EEA",
+    "height": 25,
+    "width": 72,
+    "x": 10,
+    "y": 13
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "139352EB-EFF4-4FED-A811-343595C0E555"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "269E7275-2F20-4273-A544-09A6551CA625"
+    }
+  ],
+  "name": "Previous Month Group",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "60C3C644-0EAA-454B-A8AB-3DD69359B8AA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

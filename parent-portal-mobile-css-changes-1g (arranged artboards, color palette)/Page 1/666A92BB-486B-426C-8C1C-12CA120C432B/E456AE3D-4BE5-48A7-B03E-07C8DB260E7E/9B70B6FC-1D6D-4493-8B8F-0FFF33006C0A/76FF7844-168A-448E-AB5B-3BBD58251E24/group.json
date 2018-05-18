@@ -1,0 +1,80 @@
+{
+  "_class": "group",
+  "do_objectID": "76FF7844-168A-448E-AB5B-3BBD58251E24",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5DF354F3-11DE-456E-98D0-9AFC9504B026",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F94C3830-9E79-40F8-9069-4A6698B70F58",
+    "height": 50,
+    "width": 172,
+    "x": 0,
+    "y": 4
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4615E907-AEAE-4D30-B5A6-55633812E99F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AE61D8FA-E79C-4C31-A0A7-C1AE2D66BFB8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6C332AFA-15D6-4D0E-A3BE-507FDBC337BD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "20AA9CE4-2A88-48C8-A14F-2A1FDD0A7B65"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F0877758-330E-42C6-8DD8-04848164614B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "344EE5FE-FBD8-4F26-A32E-A2C7931AAF56"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DB740925-1B4A-4BF6-ADD0-2F46C5BEC6FB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3ACC0A2F-C411-4415-BB98-4E58067524FC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "12C88208-E901-450F-B665-28B869AE6D93"
+    }
+  ],
+  "name": "Follett Logo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E4094438-5360-4C4F-98E4-34535685378D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

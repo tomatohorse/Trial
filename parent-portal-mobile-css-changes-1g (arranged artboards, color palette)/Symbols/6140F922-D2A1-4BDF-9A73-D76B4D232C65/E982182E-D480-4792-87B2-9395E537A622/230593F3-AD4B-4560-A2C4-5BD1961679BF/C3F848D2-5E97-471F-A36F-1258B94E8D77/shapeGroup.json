@@ -1,0 +1,70 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "C3F848D2-5E97-471F-A36F-1258B94E8D77",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8F8FDE44-4D22-4D74-938D-C6CC6C95E451",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DEA7F4E2-C70B-4958-9895-DC56022759A7",
+    "height": 5,
+    "width": 10,
+    "x": 213,
+    "y": 12
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "A01E64F7-E365-4785-AE65-BF3B6C293A32"
+    }
+  ],
+  "name": "DropDown Arrow",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 3,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D721D80F-9592-4680-8AF7-6E5111C89F0C",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7411764705882353,
+          "green": 0.7411764705882353,
+          "red": 0.7411764705882353
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "A93742BB-00F9-4F61-A4D3-18497765722F",
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

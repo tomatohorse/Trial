@@ -1,0 +1,81 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "E01B69ED-FCC3-4EC6-B181-69E10D02F6AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1196,
+    "width": 1136,
+    "x": 2546,
+    "y": 1986
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "C52F1B8A-24AD-439D-A6A6-C2BA8C7DDE52"
+    },
+    {
+      "class": "text",
+      "id": "C3F61F91-C9A2-47F8-AB17-2474573FB703"
+    },
+    {
+      "class": "text",
+      "id": "6472C2DF-EDED-4C54-A3AA-72FA6F900F18"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C29AFA4D-5D7A-4C9C-A3A2-2D9E886A82D9"
+    }
+  ],
+  "name": "Conduct Container Artboard",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

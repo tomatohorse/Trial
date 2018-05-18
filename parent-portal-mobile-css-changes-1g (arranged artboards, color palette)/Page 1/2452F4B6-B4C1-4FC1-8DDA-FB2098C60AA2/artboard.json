@@ -1,0 +1,135 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "6013936D-4D39-4614-96E4-0C92C6E2E43B",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "2452F4B6-B4C1-4FC1-8DDA-FB2098C60AA2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1F433049-34ED-4B31-AB51-BFBE086049C9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "50CEDE2F-4E6E-4F2C-BF9E-19C9A6C6B1E1",
+    "height": 877,
+    "width": 431,
+    "x": 1189,
+    "y": -4024
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C9780D37-34E5-403E-AF67-4289964D36A6",
+    "guides": [
+      28,
+      403
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "EFBD6334-D497-44EE-9877-ABB37C7C8180"
+    },
+    {
+      "class": "group",
+      "id": "11468865-60E6-4FA6-B927-4D1E2E2FC414"
+    },
+    {
+      "class": "group",
+      "id": "97413BD6-6890-4EDC-BCEA-3D814E736F5F"
+    },
+    {
+      "class": "group",
+      "id": "167233CE-E0D1-42A1-AF68-6FAE21126414"
+    },
+    {
+      "class": "group",
+      "id": "FA14A733-9433-415D-8E96-E27B800127F3"
+    },
+    {
+      "class": "group",
+      "id": "F4995063-4F5C-46F0-BB9F-F18FD3E27A11"
+    },
+    {
+      "class": "group",
+      "id": "CAC75742-FC28-456B-96A2-7E2A35C41CD4"
+    },
+    {
+      "class": "group",
+      "id": "D5C65B73-EAFC-4ECD-8088-83316AA79836"
+    },
+    {
+      "class": "group",
+      "id": "03444BBA-2186-49F7-96DA-AF8460515303"
+    },
+    {
+      "class": "group",
+      "id": "98C17CFC-CF32-43FC-B727-E03E0DC1E500"
+    },
+    {
+      "class": "group",
+      "id": "9EF35181-E1AB-4C3E-B3AE-39AD9669F7BF"
+    },
+    {
+      "class": "group",
+      "id": "1A305333-45B2-4F04-8ED9-FEBE279F9294"
+    },
+    {
+      "class": "group",
+      "id": "2DAE4C45-54B1-43DB-B18F-7A3791263DB7"
+    },
+    {
+      "class": "group",
+      "id": "B92AEF80-E214-49BE-989A-3224BA8DBEA5"
+    },
+    {
+      "class": "group",
+      "id": "D3981F2D-5C8D-46E4-A1A8-65A4F3F66809"
+    }
+  ],
+  "name": "Home - Calendar",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "100D3180-BB5F-4AFA-8893-D02AA86528E7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4D1185F6-8E9A-4E7C-A1A1-AB5D3D2F2297",
+    "guides": [
+      105,
+      772
+    ]
+  }
+}

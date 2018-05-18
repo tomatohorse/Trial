@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "84DACD5B-180F-47BF-B7FB-2D24F781E811",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "72761E5C-228E-48B1-8E22-38BEB7F02363",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8A8B80B8-D90D-4068-8C4A-5FA356B62D91",
+    "height": 128,
+    "width": 132,
+    "x": 134,
+    "y": 7
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "07B387EC-E964-4AC1-871A-A77F68A17B63"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4DD5A50B-653F-4959-92DC-8542A5167A81"
+    },
+    {
+      "class": "text",
+      "id": "7269785A-4271-4ED6-B4F9-C327F97570E1"
+    },
+    {
+      "class": "text",
+      "id": "408708AD-1047-40DA-BAE8-309AEB95BFF8"
+    }
+  ],
+  "name": "Month Popup",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F7BAF38B-C8DA-4090-9B30-671B2F000D81",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "DLMidnight": {
+      "layerColor": "red"
+    }
+  }
+}

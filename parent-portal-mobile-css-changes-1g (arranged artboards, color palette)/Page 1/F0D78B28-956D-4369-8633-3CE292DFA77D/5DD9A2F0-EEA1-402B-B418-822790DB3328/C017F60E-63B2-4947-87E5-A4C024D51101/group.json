@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "C017F60E-63B2-4947-87E5-A4C024D51101",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C0F85A74-191A-467A-B8EB-52A887943027",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A9733CB3-626B-43BB-8A4C-3F2547F5F534",
+    "height": 75,
+    "width": 351,
+    "x": 12,
+    "y": 60
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "61F3BAA5-482A-4D58-A3BB-7394F078908A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B8765DAB-4BF9-42BB-9EA9-C7E44C0DD14F"
+    },
+    {
+      "class": "text",
+      "id": "EFA3F15F-C0ED-4643-846A-C24D197F1D46"
+    },
+    {
+      "class": "text",
+      "id": "CE503EA2-4F4B-4B72-B805-3D84D4A2AB72"
+    }
+  ],
+  "name": "Individual Assignment Group 1 Copy 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "868F0F4D-E88E-4AF1-AA40-58BC1F90AEA4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

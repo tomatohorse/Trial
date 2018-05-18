@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "416CEF16-FEB2-4AA7-9221-8DB57137E02F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "49165D29-35A0-438F-9223-9952A1FB2AB7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CB28C8D1-7D71-4A7B-B6FC-2AE91419CD54",
+    "height": 75,
+    "width": 351,
+    "x": 12,
+    "y": 230
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D4B67A21-4067-44B9-ACBD-CBCE81C96E41"
+    },
+    {
+      "class": "text",
+      "id": "68708D01-9E5C-45FC-B538-7BA07A0E735A"
+    },
+    {
+      "class": "text",
+      "id": "A96B94FE-C937-46CE-8A2D-25E34AB30772"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A7B1F349-3FE1-4F88-A2F2-686E48C4E12A"
+    }
+  ],
+  "name": "Individual Assignment Group 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0E7E3ECF-2337-4D00-A552-6F565F85AB3A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

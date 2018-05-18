@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "7060DD7C-D7CA-4D01-AF91-8F5D585F4386",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7EAAFD39-D60B-40F8-AAA2-9FBA89D2B4B0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C9F9E538-01F5-4530-AA94-BFE5E065C2EB",
+    "height": 60,
+    "width": 46,
+    "x": 3,
+    "y": 50
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0AD46BA1-2EBC-4923-882E-B94DF6E25979"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8B9AC881-16D7-4809-B8DE-5696703ABB81"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "22FE35E4-A997-473F-9284-9DBDC986404D"
+    }
+  ],
+  "name": "Monday",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7C2A9171-F090-4F98-BB52-20C7B84A6072",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

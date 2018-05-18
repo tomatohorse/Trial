@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "E57EE8C4-476F-43B5-B9EF-AB8DD93F4064",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4167689B-CEB0-4F6A-8D35-43030C1D7C0A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FCFFF327-3620-4811-B22B-8EB96FA5A27D",
+    "height": 25,
+    "width": 73,
+    "x": 292,
+    "y": 13
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "BD6885D9-AEB0-4E23-B905-5775C6DAED88"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3E5622F4-F4B9-45CA-86B4-8FC23B73705D"
+    }
+  ],
+  "name": "Next Month Group",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "60BDCF72-9A07-42A7-BD40-B3A4CEA6D3F0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

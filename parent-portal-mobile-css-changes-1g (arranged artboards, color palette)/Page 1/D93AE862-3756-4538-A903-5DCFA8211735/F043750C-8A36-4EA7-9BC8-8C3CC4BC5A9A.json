@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F043750C-8A36-4EA7-9BC8-8C3CC4BC5A9A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "577B587D-C2C1-4FC7-96F8-183923CCAB4C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "33DE2BCD-D1A8-4DE6-AF59-3E428E7D1BB0",
+    "height": 42,
+    "width": 375,
+    "x": 26,
+    "y": 658
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "grade accordions copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "26122115-8E2A-4CEB-842B-A96995EC1BEE",
+      "overrideName": "C20CD1B7-1590-407B-B080-3CB472D733A5_stringValue",
+      "value": "Phys Ed"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2A1E3EF2-FD2F-4A2F-8BCF-2BBC79914565",
+      "overrideName": "0931C367-14C5-4913-83F6-7C90D81006E4_stringValue",
+      "value": "90"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "38150695-0AD7-4AF4-8D6E-D93C27AF071D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "22232748-51BB-4158-BB78-A1433542B8DD",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,199 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "809204DA-567E-4D00-904C-137250C28DCD",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "97199F68-5CB3-4706-A373-5052075F381C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "192021DA-989A-4276-A330-0565E1B76EE9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6DB714D0-805D-4310-B672-09BBDD714E61",
+    "height": 3997,
+    "width": 4657,
+    "x": 66,
+    "y": -2579
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8F51A55C-8254-4F9F-A5D9-99664E098C56",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "A8532452-65A4-4176-A8E0-AE5DCAFC3B00"
+    },
+    {
+      "class": "group",
+      "id": "FE7DA95B-8B12-4900-95BE-EA1856FCCF15"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DF62C49D-DD88-4026-ABDB-910719DE1B39"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7A26167F-4FDE-4D20-B5B9-CC68DF09A8DD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "176B41DC-72AA-4E7C-9605-F09CEE22F5FA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C7D25260-F786-4107-85BB-D2696248FEC7"
+    },
+    {
+      "class": "text",
+      "id": "9D9CDFC5-AFB9-4964-A6BD-92BDCC0C8A46"
+    },
+    {
+      "class": "text",
+      "id": "0515DE06-0C95-4CAE-857E-B4D684BA0029"
+    },
+    {
+      "class": "text",
+      "id": "D6BAD7FE-48E3-4F4D-8449-1414B6112700"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5CBC539A-00A3-4B88-BBD4-EF5182C2271A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F09450AB-0D68-4D2C-AFAF-B8343D6B2C77"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7118A112-E336-402C-A823-094D2D61FA34"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5D2059A4-69EB-4FA4-A9AD-E26FBACD7220"
+    },
+    {
+      "class": "text",
+      "id": "AF8DEC27-43AE-4AA9-AFC4-453A7B09C86B"
+    },
+    {
+      "class": "text",
+      "id": "5AE8E4FB-A884-4A8F-905C-B960D58CBAF8"
+    },
+    {
+      "class": "text",
+      "id": "147A1D37-5798-4086-A8F7-F1DDBD4D2EAF"
+    },
+    {
+      "class": "text",
+      "id": "0322EB0A-FB2E-4C32-A90A-F1AC7A8633AE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "57CC6C26-5A34-4180-BF2C-9435D5A4ACA2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A4F39933-510F-4955-944B-A56CB230AD41"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8F17BB76-2FB5-473D-B95A-D59CEF52A514"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "335F0DA7-E324-404A-B56F-389B4BFD1A38"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "008C1A89-5723-4E12-B5C5-A8AEBAE5AC20"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "156E7BB0-2A6D-4450-8A3B-EBF4544E0041"
+    },
+    {
+      "class": "text",
+      "id": "59CEB535-F262-45F3-AE90-16497AD214A1"
+    },
+    {
+      "class": "text",
+      "id": "753D9CD6-C39F-42DE-BE47-52E97B377F30"
+    },
+    {
+      "class": "text",
+      "id": "30F9706C-6FB1-48DC-9EEC-395567C5E5A9"
+    },
+    {
+      "class": "text",
+      "id": "3747B91A-1C63-4174-AB80-EE5DD27BA5B6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CB556927-395A-439E-8851-7E1FD20147EC"
+    },
+    {
+      "class": "text",
+      "id": "AFCA8CCD-FABC-4F43-8A31-8499909C9494"
+    },
+    {
+      "class": "text",
+      "id": "6E99C279-1FAC-42C4-BFD6-89015905051C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "62F44169-43B0-47AC-BA72-66D0B000EA83"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8B4FA661-39AE-433B-B648-D41A21E6E60F"
+    }
+  ],
+  "name": "Grades Container Artboard",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A0B37BDB-FE51-4425-AD8A-BFB564CA93FA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "60847CF4-EE41-4855-9422-D7A4477A14EE",
+    "guides": [
+    ]
+  }
+}

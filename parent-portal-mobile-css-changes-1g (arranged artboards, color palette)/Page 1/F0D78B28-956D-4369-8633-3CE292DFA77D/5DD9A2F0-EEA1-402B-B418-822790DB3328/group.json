@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "5DD9A2F0-EEA1-402B-B418-822790DB3328",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1CB2BBD3-438B-472C-952C-CF8E351ACB00",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DD2CA75C-AC42-41F2-B748-F88DEBACC54C",
+    "height": 135,
+    "width": 375,
+    "x": 28,
+    "y": 519
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C017F60E-63B2-4947-87E5-A4C024D51101"
+    },
+    {
+      "class": "group",
+      "id": "E1703C65-B7A5-4520-A135-DE8E1B0BDE40"
+    }
+  ],
+  "name": "Tomorrow Group",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A856DA89-7E46-4F0E-8947-37A7A3A0A190",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "FDA55100-5875-4FA8-A34E-DAFB35B51E5D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5089E9FE-913C-45AC-96AC-122F1384249C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3D515600-842C-4A4E-94B2-9FCA0045BB6C",
+    "height": 56,
+    "width": 332,
+    "x": 22,
+    "y": 67
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "5DC68A05-8232-435E-8278-D1616CDA8F8D"
+    },
+    {
+      "class": "text",
+      "id": "E57FEEE9-54F2-4329-AA0B-5EE8B835170C"
+    },
+    {
+      "class": "group",
+      "id": "1B00D3A9-561B-4457-BC7C-FB92C9FADC25"
+    }
+  ],
+  "name": "Follett Aspen",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8F86F038-58CC-4BB5-A042-316127666434",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

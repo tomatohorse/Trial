@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "5C7248EF-5C9F-4354-941F-AB482E7D4EED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "035BC578-32C6-4DEB-9C52-B0A7B18F4B9C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D10D2170-91AC-447B-B92E-9EB7DF78736A",
+    "height": 115,
+    "width": 335,
+    "x": 48,
+    "y": 211
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F7CB1279-CA3C-404C-8EAA-E61E6575F054"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A9769B03-A9C1-4BC2-BEA8-42FBD5D7EE73"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "919F9BB0-7EC4-421E-BBBF-4F1F5B64E6CA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "79268CF5-2B0A-4F60-8B0A-C12C418EBB7E"
+    }
+  ],
+  "name": "Buttons Hilight",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "115C8065-1714-4A2A-A68E-C2610C016E6E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

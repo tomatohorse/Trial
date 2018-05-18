@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "do_objectID": "386DBEFE-CDD9-4023-BE57-87B56AA09287",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F4D5E96F-4B48-4F75-8F85-F89EF4A84263",
+    "height": 45,
+    "width": 45,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E52F6D86-782E-46B2-A3B6-F91B7B53B95A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5680BBF9-4ECF-4566-A6BF-5037091439CD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "35482962-71DB-4E3D-86E5-58F227CA78EF"
+    }
+  ],
+  "name": "account icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BD9DDAA8-A93A-4528-92DD-D20B66E68566",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "7DADE8B0-4C13-4582-A47F-CF8973FC09F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BD1BE4AD-7279-4706-94A2-F826946E8315",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F9E4B147-3A78-408B-9864-7F7887249DBB",
+    "height": 178,
+    "width": 375,
+    "x": 28,
+    "y": 555
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "B75E53BA-8467-4501-B435-5B0692D99B2E"
+    },
+    {
+      "class": "group",
+      "id": "03497008-B370-4B40-BB7D-ABE6C374D8A6"
+    }
+  ],
+  "name": "Announcements",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "29ABB931-F272-428E-9469-41E7A2B6DF1B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

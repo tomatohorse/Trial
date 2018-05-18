@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "do_objectID": "35F57230-8CF2-4E74-8099-3FB71974B93F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B41A863C-3EB3-4295-A920-43242F800847",
+    "height": 45,
+    "width": 234,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "528B631E-C70D-4CBD-9B79-04B464CD7A24"
+    },
+    {
+      "class": "text",
+      "id": "8E5AAC79-F322-4A6D-9ED0-BE638819AAE4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3611FAC8-7EA5-45B9-8FEA-53F8DC37D353"
+    }
+  ],
+  "name": "Back Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "19268BA7-BFB4-4DA7-8C54-5DE0B9970AB5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

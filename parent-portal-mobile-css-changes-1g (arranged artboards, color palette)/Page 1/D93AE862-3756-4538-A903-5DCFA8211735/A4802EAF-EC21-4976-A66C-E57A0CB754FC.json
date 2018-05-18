@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A4802EAF-EC21-4976-A66C-E57A0CB754FC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B79C02B2-BE02-4F54-BCF6-0A5E87AB4CD6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6DC835A5-4D94-45DC-A2FB-00DE80A91882",
+    "height": 42,
+    "width": 375,
+    "x": 26,
+    "y": 617
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "grade accordions copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CE377E4B-C4FA-49CC-9645-2A8B2DC20D48",
+      "overrideName": "C20CD1B7-1590-407B-B080-3CB472D733A5_stringValue",
+      "value": "Health"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "90D41287-4817-4762-8B06-45470AE65310",
+      "overrideName": "0931C367-14C5-4913-83F6-7C90D81006E4_stringValue",
+      "value": "67"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B9E05E8F-B64D-4068-9874-1239D763E66A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "22232748-51BB-4158-BB78-A1433542B8DD",
+  "verticalSpacing": 0
+}

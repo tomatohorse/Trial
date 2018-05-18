@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "54C3D726-8CC3-40DF-B150-4BB792D12AC7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6446B229-6AC4-4675-B8B6-E31706EC7D8F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D89F1B34-D958-400E-904C-ABB17F4DA09F",
+    "height": 50,
+    "width": 160,
+    "x": 223,
+    "y": 210
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5035AA6A-7BA9-46E0-8E74-E196C171228F"
+    },
+    {
+      "class": "text",
+      "id": "715A984A-A83E-448F-B3EF-E39C3FE1AE15"
+    }
+  ],
+  "name": "Assignments Btn",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A57D89FD-DC2D-45E4-8896-421FD3344CC9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

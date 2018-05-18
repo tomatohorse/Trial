@@ -1,0 +1,78 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "34F4BCDF-ED9D-4F5A-BFC4-B6D6FFA92A26",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D77605AB-AA82-43B4-883C-AEFB0EBE3B66",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "0586B255-FDB8-410C-A762-B8F34752A508",
+    "height": 165,
+    "width": 165,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": true,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "21A2B7B5-A570-49BB-884C-6349E4E0CEF0"
+    }
+  ],
+  "name": "Donut1a Chart",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+        362.6700134277344,
+        9999
+      ],
+      "do_objectID": "17DD69CC-2E96-4EDA-B63A-A9A2B6D09ACD",
+      "isEnabled": false,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6627450980392157,
+          "green": 0.4549019607843137,
+          "red": 0.2745098039215686
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 1,
+        "thickness": 20
+      }
+    ],
+    "do_objectID": "3DA1AAFF-3261-4ED3-92F1-BD8AAEA48C2C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

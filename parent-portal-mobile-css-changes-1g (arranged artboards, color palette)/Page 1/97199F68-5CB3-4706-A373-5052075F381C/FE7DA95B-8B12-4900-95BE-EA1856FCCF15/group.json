@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "FE7DA95B-8B12-4900-95BE-EA1856FCCF15",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5177F3EB-3136-4685-A532-DC2E336CB286",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "10066046-9149-4FA3-A6EA-01D8C5F7995C",
+    "height": 165,
+    "width": 165,
+    "x": 3482,
+    "y": 877
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EFBA4EAA-E8AE-4110-8386-72560DE9670E"
+    },
+    {
+      "class": "group",
+      "id": "8E76470E-DD9A-4C15-9697-55490DEC0200"
+    },
+    {
+      "class": "group",
+      "id": "C7EE21F3-71C4-4523-A4DF-7D1AE7BE8C40"
+    }
+  ],
+  "name": "Donut 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "53594C14-B740-4D91-987E-CB6B4A08A42F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

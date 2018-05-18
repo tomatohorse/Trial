@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "4F362B5B-0FFF-4656-8F86-23313057598B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "14CF8F2E-D8FD-485E-8F3E-27A0D081F16B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F527EF39-DF40-4F55-AF0B-78D00CB80A56",
+    "height": 50,
+    "width": 160,
+    "x": 48,
+    "y": 210
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "08655FFA-0526-403E-B4F3-72EC31872CC8"
+    },
+    {
+      "class": "text",
+      "id": "247FF9BE-3759-4206-B812-1421F7460740"
+    },
+    {
+      "class": "group",
+      "id": "B0F9E38D-F849-4DCB-A245-995EB903E2E0"
+    }
+  ],
+  "name": "Grades Btn",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6B4A0751-6CF1-4C45-BA4E-5C6003A442BA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

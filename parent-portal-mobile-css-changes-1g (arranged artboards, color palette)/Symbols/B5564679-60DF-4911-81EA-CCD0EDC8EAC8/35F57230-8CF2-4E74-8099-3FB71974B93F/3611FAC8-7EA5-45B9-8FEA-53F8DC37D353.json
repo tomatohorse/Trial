@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3611FAC8-7EA5-45B9-8FEA-53F8DC37D353",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "583737D7-10D2-4DB0-890C-6D180C546691",
+    "height": 28,
+    "width": 24,
+    "x": 5,
+    "y": 8
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icon / material design / navigation / ic_chevron_left_24px",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2A607599-AF70-450D-BE74-F33E3D7B00CC",
+      "overrideName": "B0216A69-A1EE-43AC-9AA9-DCCCC9537175_symbolID",
+      "value": "61246C36-4781-444F-B7EB-A52A405681E4"
+    }
+  ],
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DFC319C2-8E3D-478D-BD47-E1917072D2EC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "FCD624FC-6C12-4374-BD88-F95D39CC0689",
+  "verticalSpacing": 0
+}

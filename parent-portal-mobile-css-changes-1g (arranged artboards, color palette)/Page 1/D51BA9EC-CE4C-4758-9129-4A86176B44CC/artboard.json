@@ -1,0 +1,91 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "6AA7F841-65EC-4C52-AC6D-C0CFC1494050",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "D51BA9EC-CE4C-4758-9129-4A86176B44CC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7D77C82F-BBFF-491F-83BD-0E23A047D588",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A5643BC6-8481-4C5F-B2BA-636D90945738",
+    "height": 847,
+    "width": 444,
+    "x": 8497,
+    "y": -2111
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BD68A074-5308-4AAD-BC2C-A78966E4BC64",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "BD34E805-1B6B-4113-8C41-862D54EEC1D3"
+    }
+  ],
+  "name": "Calendar Old",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B1EA23BE-FE0D-47D1-9AA7-2BAF2C2C2054",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4E1302E1-DC10-466C-AC20-B322BD3D2A22",
+    "guides": [
+    ]
+  }
+}

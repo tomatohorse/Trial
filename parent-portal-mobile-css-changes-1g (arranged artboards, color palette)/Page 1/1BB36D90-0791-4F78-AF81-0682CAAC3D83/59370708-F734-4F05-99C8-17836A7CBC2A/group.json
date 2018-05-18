@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "do_objectID": "59370708-F734-4F05-99C8-17836A7CBC2A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "54A33E0F-4767-414E-AB03-98D986814ECC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "621CE50B-3E5B-40FB-9E91-296F768F30FA",
+    "height": 111,
+    "width": 375,
+    "x": 28,
+    "y": 155
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0085A2E5-315D-4669-BDD0-F9D04D975E86"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4130D3EE-6F54-4716-A2F8-1F80F9D6C05B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1A04D623-CCDE-4548-A2FE-D2B3D4CE2456"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1C7F1867-315F-43DD-90C8-F4510A2F281B"
+    }
+  ],
+  "name": "Student, Class, View Selector Group",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "667623A8-2A0F-463A-8C72-097AD01327A2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

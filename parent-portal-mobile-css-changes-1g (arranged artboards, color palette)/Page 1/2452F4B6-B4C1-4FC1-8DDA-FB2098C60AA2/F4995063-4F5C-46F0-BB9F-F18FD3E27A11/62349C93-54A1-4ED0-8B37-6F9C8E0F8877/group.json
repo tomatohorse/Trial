@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "62349C93-54A1-4ED0-8B37-6F9C8E0F8877",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "76EC9353-1996-4F98-BEDE-A5973CF1D3D2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9205DCBB-E19C-4B6D-922E-2FEC5EB23E72",
+    "height": 11,
+    "width": 70,
+    "x": 137,
+    "y": 183
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "25D04B7D-0BD1-4D38-BFD0-2A9661300336"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1098F336-4856-49B2-83A2-1791B60B3DFD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C551B00D-22BA-4844-84D7-EA482BFA4BCE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C28124DB-6C63-48C4-8D82-06CEA4508BCC"
+    }
+  ],
+  "name": "Slider Indicator",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7239CB6B-8A34-4E95-BDAB-07B755E34269",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

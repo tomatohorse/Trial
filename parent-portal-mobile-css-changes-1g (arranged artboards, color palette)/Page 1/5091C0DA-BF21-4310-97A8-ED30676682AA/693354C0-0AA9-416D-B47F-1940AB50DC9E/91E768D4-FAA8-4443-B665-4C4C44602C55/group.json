@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "91E768D4-FAA8-4443-B665-4C4C44602C55",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "13DCC260-E438-4E55-B168-0DD464AADA36",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D2FF2F7C-CC2F-48B6-9564-3E18AC7E88C1",
+    "height": 64,
+    "width": 60,
+    "x": 279,
+    "y": 67
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E73E70BF-F02A-438C-AB8C-0C10E1654DD2"
+    },
+    {
+      "class": "text",
+      "id": "E12B0073-02F4-4FAF-BF30-EEAFFC093211"
+    }
+  ],
+  "name": "Overdue Off",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9F2F16BC-F9BB-4CD2-87A3-AC5BB3BC30C6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "DLMidnight": {
+      "layerColor": "red"
+    }
+  }
+}

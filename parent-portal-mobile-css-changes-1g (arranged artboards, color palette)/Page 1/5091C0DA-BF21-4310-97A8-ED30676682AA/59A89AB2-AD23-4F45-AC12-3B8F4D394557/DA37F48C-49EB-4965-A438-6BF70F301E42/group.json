@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "DA37F48C-49EB-4965-A438-6BF70F301E42",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2E62F22F-FCBB-4A5A-ADE8-1354E4F12671",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "61BF4EFA-AE4E-464E-929F-77DFA4BD2A49",
+    "height": 165,
+    "width": 165,
+    "x": 171,
+    "y": 12
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D04569C8-8BBE-4181-BC41-EE0082E514E0"
+    },
+    {
+      "class": "group",
+      "id": "7E71C6B1-4C66-49BC-978A-20A6409CEBA7"
+    },
+    {
+      "class": "group",
+      "id": "A1037E6C-A584-46D9-A883-0F5E26DE4775"
+    }
+  ],
+  "name": "Donuts",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8D7EACE0-A79B-45B1-A080-7A4A79DD7360",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

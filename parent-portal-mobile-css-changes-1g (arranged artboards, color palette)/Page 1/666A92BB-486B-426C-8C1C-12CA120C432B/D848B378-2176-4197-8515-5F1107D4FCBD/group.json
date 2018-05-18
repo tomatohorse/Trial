@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "do_objectID": "D848B378-2176-4197-8515-5F1107D4FCBD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6A477A83-BC93-4DDA-944F-B0A2AB6686A9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A305D23D-CDCF-4429-90B0-2708303322A0",
+    "height": 192,
+    "width": 335,
+    "x": 47,
+    "y": 353
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D052BD6B-43FC-48A5-8BAF-BDF3F01EE32B"
+    },
+    {
+      "class": "text",
+      "id": "2163C725-F80E-40FA-BDF5-6DFDA38BDA39"
+    },
+    {
+      "class": "group",
+      "id": "C927BA1A-AFAA-4EA6-92EB-7E39115FE2AE"
+    },
+    {
+      "class": "text",
+      "id": "75FF9323-3944-4D16-A2CC-1157B43DD960"
+    },
+    {
+      "class": "text",
+      "id": "B14B8497-499C-48F5-9335-10A616A86B13"
+    }
+  ],
+  "name": "Attendance DD",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "36F801B7-C127-4F81-AD66-38A2CD8E55E0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "DLMidnight": {
+      "layerColor": "orange"
+    }
+  }
+}

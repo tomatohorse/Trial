@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "FFE61CEE-F036-4B98-B040-A98CE8513ACF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7B3CC5B3-67F8-41AC-8A11-E31AB7FCE01E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9D6E69F3-5CC1-4D62-87BB-D40D98FECD5B",
+    "height": 50,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "30726CFF-8E90-48B1-8D29-B73FF45512FB"
+    },
+    {
+      "class": "text",
+      "id": "1FB08067-8A57-4367-84E6-1183B8052FE1"
+    },
+    {
+      "class": "text",
+      "id": "3ACA638F-CB2E-4576-8D06-084ED5DD57F5"
+    },
+    {
+      "class": "group",
+      "id": "FDB4BBCA-D307-4120-B6A1-E9C066E085B8"
+    }
+  ],
+  "name": "Today Title Group",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "451261DE-149A-4000-963B-55BCD76F635A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

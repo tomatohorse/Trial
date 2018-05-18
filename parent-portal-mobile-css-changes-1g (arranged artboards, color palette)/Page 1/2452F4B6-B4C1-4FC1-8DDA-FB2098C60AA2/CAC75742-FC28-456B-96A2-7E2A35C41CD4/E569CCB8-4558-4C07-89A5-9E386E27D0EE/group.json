@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "E569CCB8-4558-4C07-89A5-9E386E27D0EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "02059566-6134-44DE-8070-BB0E265B2C33",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B442192D-DD5D-4BF2-9F4C-1C3E361A2B05",
+    "height": 131,
+    "width": 132,
+    "x": 104,
+    "y": 32
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2090C950-E698-44A3-9243-8F8544A1C1B1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5C692CCC-17F4-413C-BBC8-2E9BA137144E"
+    },
+    {
+      "class": "text",
+      "id": "A37D7F31-235B-41E5-9AF2-64422B00FAF2"
+    },
+    {
+      "class": "text",
+      "id": "9765F90B-E6EA-4D1D-8A8B-8D765F7BDAE2"
+    }
+  ],
+  "name": "Week Popup",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "03C4417E-1AFE-4819-BAE2-59F63E25B947",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "DLMidnight": {
+      "layerColor": "red"
+    }
+  }
+}

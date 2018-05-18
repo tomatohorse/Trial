@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B8765DAB-4BF9-42BB-9EA9-C7E44C0DD14F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "85677E10-FA86-4BD3-8A5A-ACAD74C65EF3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "28886492-3160-47F2-925E-91565E20F393",
+    "height": 37,
+    "width": 33,
+    "x": 297.295,
+    "y": 19.70500000000004
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Calendar Clock",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6552DCCF-B1BE-4227-8046-9C7B01ECD0AF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1963DC7A-6F4E-4E8E-A840-F26E0599D7EA",
+  "verticalSpacing": 0
+}
